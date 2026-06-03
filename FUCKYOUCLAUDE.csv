@@ -1,0 +1,9 @@
+Case,Priority,Last Response,Status,Jira
+A,P1,2 hours ago,Waiting on Customer,Yes
+B,P2,26 hours ago,Waiting on Me,No
+C,P3,4 days ago,Pending Support,Yes
+D,P1,30 minutes ago,Pending Engineering,Yes
+E,P2,3 hours ago,Waiting on Me,Yes
+F,P4,8 days ago,Waiting on Customer,No
+G,P3,2 days ago,Working,No
+H,P2,20 hours ago,Pending Support,No
