@@ -1,4 +1,4 @@
-The hope of the workflow.nu is to create action. Not be prefect at determining what you should do next. 
+The hope of the workflow.nu is to create action. Not be perfect at determining what you should do next. 
 
 Because typically action is better than inaction for as long as progress is being made, 
 
